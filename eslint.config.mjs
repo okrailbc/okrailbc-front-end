@@ -11,5 +11,5 @@ export default [
   pluginCypress.configs.recommended,
   pluginJs.configs.recommended,
   ...pluginVue.configs["flat/essential"],
-  compat.configs["flat/recommended"]
+  compat.configs["flat/recommended"],
 ];
