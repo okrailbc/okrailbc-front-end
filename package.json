@@ -11,7 +11,10 @@
     "test:e2e": "start-server-and-test 'vite --host --port 5173' 5173 'cypress open --e2e --config baseUrl=http://localhost:5173/ --env environment=local'",
     "lint": "eslint .",
     "format": "prettier .  --write",
-    "prepare": "node .husky/install.mjs"
+    "prepare": "node .husky/install.mjs",
+    "pre-commit": "lint-staged",
+    "pre-commit:lint": "eslint",
+    "pre-commit:prettier": "prettier --check --ignore-unknown"
   },
   "repository": {
     "type": "git",
