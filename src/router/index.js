@@ -1,35 +1,40 @@
 import { createRouter, createWebHistory } from "vue-router";
+import HomePage from "@/views/HomePage.vue";
+import AboutUs from "@/views/AboutUs.vue";
+import TrainInfo from "@/views/TrainInfo.vue";
+import ResourcePage from "@/views/ResourcePage.vue";
+import SupportOurCause from "@/views/SupportOurCause.vue";
 
 export const routes = [
   {
     path: "/",
     title: "Home page",
     name: "HomePage",
-    component: () => import("@/views/HomePage.vue"),
+    component: HomePage,
   },
   {
     path: "/about",
     title: "About us",
     name: "AboutUs",
-    component: () => import("@/views/AboutUs.vue"),
+    component: AboutUs,
   },
   {
     path: "/info",
     title: "TrainInfo",
     name: "TrainInfo",
-    component: () => import("@/views/TrainInfo.vue"),
+    component: TrainInfo,
   },
   {
     path: "/resources",
     title: "Resources",
     name: "Resources",
-    component: () => import("@/views/ResourcePage.vue"),
+    component: ResourcePage,
   },
   {
     path: "/support",
     title: "Support Our Cause",
     name: "SupportOurCause",
-    component: () => import("@/views/SupportOurCause.vue"),
+    component: SupportOurCause,
   },
 ];
 
