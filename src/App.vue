@@ -1,5 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
+import project from "/package.json";
 </script>
 
 <template>
@@ -48,6 +49,14 @@ import { RouterLink, RouterView } from "vue-router";
     </p>
   </footer>
 </template>
+
+<script>
+export default {
+  created() {
+    console.log(`Application version: ${project.version}`);
+  },
+};
+</script>
 
 <style lang="scss" scoped>
 header {
