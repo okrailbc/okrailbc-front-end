@@ -3,7 +3,7 @@
 The Valley Rail Working Group is a nonpartisan coalition group based in the Thompson-Okanagan region of British Columbia, Canada. Our shared goal is to bring efficient, environmentally-friendly passenger rail to the region, from Osoyoos to Kelowna to Kamloops.
 
 The backbone organizations of this group are the [Thompson Okanagan Tourism Association (TOTA)](https://www.totabc.org/) and [The Okanagan Transit Alliance (OTA)](https://www.okanagantransit.com/).
-We're working on connecting with municipal, provincial, and First Nations governments in the region order to bring this vision into reality.
+We're working on connecting with municipal, provincial, federal, and First Nations governments in the region order to bring this vision into reality.
 
 ## Land acknowledgement
 

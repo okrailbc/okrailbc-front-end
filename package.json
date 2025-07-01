@@ -1,7 +1,7 @@
 {
   "name": "okrailbc-front-end",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -13,7 +13,7 @@
     "format": "prettier .  --write",
     "prepare": "node .husky/install.mjs",
     "pre-commit": "lint-staged",
-    "pre-commit:lint": "eslint",
+    "pre-commit:lint": "eslint --no-warn-ignored",
     "pre-commit:prettier": "prettier --check --ignore-unknown"
   },
   "repository": {
