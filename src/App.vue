@@ -99,7 +99,10 @@ header {
   flex-direction: column;
   height: 100%;
   width: 100%;
-  max-width: 80em;
+  max-width: 55rem;
+  justify-content: center;
+  align-items: stretch;
+  margin: 0 auto;
 }
 
 main {
@@ -108,6 +111,8 @@ main {
   padding: 1rem;
   border-radius: 6px;
   flex: 1 0 auto;
+  // justify-content: center;
+  margin: 0 auto;
 }
 
 nav {
@@ -124,5 +129,7 @@ footer {
   font-size: 0.75em;
   text-align: center;
   max-width: 60rem;
+  justify-content: center;
+  margin: 0 auto;
 }
 </style>

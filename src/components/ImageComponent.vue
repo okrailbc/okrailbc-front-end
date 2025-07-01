@@ -38,7 +38,7 @@ export default {
   },
   methods: {
     getImageUrl() {
-      const path = `public/assets/${this.src}`;
+      const path = `assets/${this.src}`;
       console.log("potato result", path);
       return path;
     },
