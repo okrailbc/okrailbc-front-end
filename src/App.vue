@@ -37,6 +37,12 @@ import project from "/package.json";
     </RouterLink>
     <RouterLink
       class="routerlink"
+      to="/faq"
+    >
+      FAQ
+    </RouterLink>
+    <RouterLink
+      class="routerlink"
       to="/resources"
     >
       Resources
