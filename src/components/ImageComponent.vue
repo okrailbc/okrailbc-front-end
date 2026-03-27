@@ -39,7 +39,6 @@ export default {
   methods: {
     getImageUrl() {
       const path = `assets/${this.src}`;
-      console.log("potato result", path);
       return path;
     },
     imageLoadError() {
