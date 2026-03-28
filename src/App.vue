@@ -5,16 +5,18 @@ import project from "/package.json";
 
 <template>
   <header>
-    <ImageComponent
-      src="trainlogo-formatted.svg"
-      alt-text="Valley Rail Working Group logo"
-      width="8rem"
-      height="5rem"
-    />
-    <div>
+    <div class="flexbox-header">
+      <ImageComponent
+        src="trainlogo-formatted.svg"
+        alt-text="Valley Rail Working Group logo"
+        width="8rem"
+        height="5rem"
+      />
       <h1>Valley Rail Working Group</h1>
-      <p>Bringing passenger rail to the Thompson-Okanagan region of B.C. Canada</p>
     </div>
+    <h5 class="no-margin">
+      Bringing passenger rail to the Thompson-Okanagan region of B.C. Canada
+    </h5>
   </header>
   <nav>
     <RouterLink
@@ -89,10 +91,7 @@ export default {
 
 <style lang="scss" scoped>
 header {
-  display: flex;
-  place-items: center;
-  justify-content: center;
-  gap: 2rem;
+  text-align: center;
 }
 
 .routerlink {
@@ -111,13 +110,20 @@ header {
   margin: 0 auto;
 }
 
+.flexbox-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  margin: 0 auto;
+}
+
 main {
   background-color: $accent-light;
   color: $primary-dark;
   padding: 1rem;
   border-radius: 6px;
   flex: 1 0 auto;
-  // justify-content: center;
   margin: 0 auto;
 }
 
@@ -128,6 +134,10 @@ nav {
   position: sticky;
   top: 0;
   text-align: center;
+}
+
+.no-margin {
+  margin: 0;
 }
 
 footer {
