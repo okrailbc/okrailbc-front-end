@@ -38,7 +38,7 @@ Hydrogen is one of several ways to power the train’s electric motors. Others i
 
 We have a lot of natural resources to create green hydrogen, space for solar panels and other green options to generate power. Green hydrogen is an eco-friendly solution that works with our natural landscape rather than against it—a good fit for our community.
 
-Source: link to tech feasibility study
+[Source](https://www.mdpi.com/2071-1050/16/7/3042)
 
 ## What is a tram-train?
 
@@ -86,7 +86,7 @@ Yes. Hydrail trains can go anywhere city buses can, including up and down hills 
 ## Where can I find out more detailed technical information?
 
 - A one-page technical brief is available in PDF format (here).
-- Dr. Gord Lovegrove, UBC Okanagan Professor of Engineering, has published two peer-reviewed papers, one on the technical feasibility and one on the economic feasibility. These are available (here) and (here). 
+- Dr. Gord Lovegrove, UBC Okanagan Professor of Engineering, has published two peer-reviewed papers, one on the technical feasibility and one on the economic feasibility. These are available [here](https://www.mdpi.com/2071-1050/16/7/3042) and [here](https://www.mdpi.com/2071-1050/16/10/4081). 
 - A full research paper demonstrating the technical feasibility of running hydrail tram-trains in the Thompson-Okanagan has been published (link here).  
 
   No time to read a technical paper but you’d like a little more info?  Check out this summary: UBC researchers analyzed a tram–train service inspired by the Karlsruhe, Germany model but powered by zero-emission hydrogen fuel cell/battery hybrid rail power (hydrail) technology. Single-train simulations confirmed its technical feasibility, showing a roughly 8 hour roundtrip travel time between Osoyoos and Kamloops at an average velocity of 86 km/h, including on steep Highway 97 grades and in mountainous weather. Five tons of water per day would be consumed over 16 hours daily by the tram–train-vehicle fleet. This technology disruptor has the potential to become a project of national significance and could improve access to our north coast.
