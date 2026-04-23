@@ -51,11 +51,9 @@ Outside city boundaries the tram-train acts like a light rail train, capable of 
 In higher-speed zones, tram-trains can run along the road median or beside the highway, allowing them to bypass other road traffic.
 
  
-Tram-trains are a proven concept that have been around for over 40 years in Germany. [When the German city of Karlsruhe started using tram-trains](link here), ridership quadrupled compared to previous transit methods because passengers saved transfer time between vehicles. That’s the change we want to bring to our inter-city bus systems.
+Tram-trains are a proven concept that have been around for over 40 years in Germany. When the German city of Karlsruhe started using tram-trains, [ridership quadrupled](https://www.karlsruher-modell.de/en/index.html) compared to previous transit methods, in part because passengers saved transfer time between vehicles. That’s the change we want to bring to our inter-city bus systems.
 
 Tram-trains are about the length and weight of a freight truck (e.g. Rocky-Mountain-double). Unlike heavier freight rail, tram-trains are light enough to operate on asphalt roads and other infrastructure designed for cars. This means tram-trains can run in mixed traffic alongside existing cars, which makes them cheaper to build due to lower property-acquisition costs.
-
-(Pic) Here’s an example of a train in San Francisco that runs in mixed traffic. Note the cars running around it. (Image by SFBay licensed under Creative Commons.)
 
 ## Why hydrogen fuel cells instead of batteries?
 
@@ -75,36 +73,32 @@ A few reasons:
 
   When it comes to long-term costs, there’s no contest—the tram-train is more economical.
 
-- **Tram-trains are more comfortable.** Tram-trains have wider carriage bodies and more versatile services. This means more seat space and room for amenities like food, child play areas and bicycle storage for long-distance trips. Studies have shown people are (more likely)[link here] to use a comfy train over a bus. A wider carriage makes it easier for people to navigate with wheelchairs, walkers, etc.
+- **Tram-trains are more comfortable.** Tram-trains have wider carriage bodies and more versatile services. This means more seat space and room for amenities like food, child play areas and bicycle storage for long-distance trips. Studies have shown people (prefer to use a comfy train over a bus)[link here](https://www.sciencedirect.com/science/article/pii/S1077291X22007391). A wider carriage makes it easier for people to navigate with wheelchairs, walkers, etc.
 
 ## Will these trains work in our cold climate and on hills?
 
 Yes. Hydrail trains can go anywhere city buses can, including up and down hills and through snow and ice. This train service would be safer than existing bus services in bad weather since trains have rails to keep them from skidding on ice.
 
-(Pic) Here’s a hydrail train operating since 2018 that travels through a similar climate in northern Germany.(link here)
-
 ## Where can I find out more detailed technical information?
 
-- A one-page technical brief is available in PDF format (here).
-- Dr. Gord Lovegrove, UBC Okanagan Professor of Engineering, has published two peer-reviewed papers, one on the technical feasibility and one on the economic feasibility. These are available [here](https://www.mdpi.com/2071-1050/16/7/3042) and [here](https://www.mdpi.com/2071-1050/16/10/4081). 
-- A full research paper demonstrating the technical feasibility of running hydrail tram-trains in the Thompson-Okanagan has been published (link here).  
+- Dr. Gord Lovegrove, UBC Okanagan Professor of Engineering, has published two peer-reviewed papers.
+- A full research paper demonstrating the technical feasibility of running hydrail tram-trains in the Thompson-Okanagan has been published [here.](https://www.mdpi.com/2071-1050/16/7/3042)
 
-  No time to read a technical paper but you’d like a little more info?  Check out this summary: UBC researchers analyzed a tram–train service inspired by the Karlsruhe, Germany model but powered by zero-emission hydrogen fuel cell/battery hybrid rail power (hydrail) technology. Single-train simulations confirmed its technical feasibility, showing a roughly 8 hour roundtrip travel time between Osoyoos and Kamloops at an average velocity of 86 km/h, including on steep Highway 97 grades and in mountainous weather. Five tons of water per day would be consumed over 16 hours daily by the tram–train-vehicle fleet. This technology disruptor has the potential to become a project of national significance and could improve access to our north coast.
+  No time to read a technical paper but you’d like a little more info?  Here's a summary: UBC researchers analyzed a tram–train service inspired by the Karlsruhe, Germany model but powered by zero-emission hydrogen fuel cell/battery hybrid rail power (hydrail) technology. Single-train simulations confirmed its technical feasibility, showing a roughly 8 hour roundtrip travel time between Osoyoos and Kamloops at an average velocity of 86 km/h, including on steep Highway 97 grades and in mountainous weather. Five tons of water per day would be consumed over 16 hours daily by the tram–train-vehicle fleet. This technology disruptor has the potential to become a project of national significance and could improve access to our north coast.
 
-- A published research paper demonstrates the economic feasibility of running hydrail tram-trains in the Thompson-Okanagan (link here). In summary: Population and tourism growth have increased congestion, collisions, climate-harming emissions and transport inequities. Surveys suggest many would switch from cars to transit with better service levels and connections.
+- A published research paper demonstrates the economic feasibility of running hydrail tram-trains in the Thompson-Okanagan, which is available [here](https://www.mdpi.com/2071-1050/16/10/4081). 
+
+  In summary: Population and tourism growth have increased congestion, collisions, climate-harming emissions and transport inequities. Surveys suggest many would switch from cars to transit with better service levels and connections.
 
   Estimated benefits are in the range of $40 billion CAN (base year 2023), with a benefit–cost ratio of 9:1 and return on investments of 33 per cent over 30 years. These results were risk-tested, including worst-case risks such as 70 per cent cost overruns. Valley Rail promises an economic transition to clean energy, sustainable transportation, and more livable communities, benefiting all Valley communities through greater transportation equity.
 
-- Dr. Lovegrove’s team built the first hydrail prototype in North America in 2020. You can read more about it (here) as well as the team’s initiative to retrofit a diesel-electric freight locomotive for Southern Rail of BC in Vancouver (here).
-- Dr. Holger Busche, former energy and transport scientific advisor to the German government, led the charge to launch the world’s first hydrail passenger rail service in Germany in 2018. Dr. Busche has been collaborating with Dr Lovegrove’s team toward its Canadian efforts. One of the vehicles launched in Germany – known as the Alstom iLint Coradia - was demonstrated in Quebec during summer 2023, with rave reviews. You can read about it (here).
+- Dr. Lovegrove’s team built the first hydrail prototype in North America in 2020. You can read more about it [here](https://sustainablecommunities.ok.ubc.ca/research/sustainable-zero-emissionrail-technology/) as well as the team’s initiative to retrofit a diesel-electric freight locomotive for Southern Rail of BC in Vancouver [here](https://www.mitacs.ca/our-projects/retrofit-of-switcher-locomotive-clean-energy-hydrogen-fuel-cell-battery-hybrid-hydrail-with-innovative-high-density-h2-storage/)
+
+- Dr. Holger Busche, former energy and transport scientific advisor to the German government, led the charge to launch the world’s first hydrail passenger rail service in Germany in 2018. Dr. Busche has been collaborating with Dr Lovegrove’s team toward its Canadian efforts. One of the vehicles launched in Germany – known as the Alstom iLint Coradia - was demonstrated in Quebec during summer 2023, with rave reviews. You can read about it [here](https://globalnews.ca/news/9845312/north-america-first-hydrogen-train/).
 
 ## How can this be economically feasible?
 
-Because we need a solution to worsening traffic in the Thompson-Okanagan, the train we’re proposing is more economical than the alternatives.
-
-- Widening Highway 97 to accommodate everyone we’re expecting to move here would cost about $X billion CAD.
-- A second crossing for Okanagan Lake would cost an estimated [$X billion] CAD.
-- By comparison, the train we’re proposing would cost $2 billion—less than half that.
+Because we need a solution to worsening traffic in the Thompson-Okanagan. The train we’re proposing is more economical than the alternatives, which include expensive options like widening the highway or building a second bridge.
 
 According to the study Dr. Lovegrove published in 2023, this train would bring $40 billion CAD of benefits to the region. That’s an estimated nine times more benefit than it would cost to build.
 
